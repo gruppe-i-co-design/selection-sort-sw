@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="selection_sort_sw_app" location="/home/oruud/VWorkspace3/selection_sort_sw_app" platform="/home/oruud/VWorkspace3/selection_sort_sw/export/selection_sort_sw/selection_sort_sw.xpfm" platformUID="xilinx:zybo::0.0(custom)" systemProject="selection_sort_sw_app_system" sysConfig="selection_sort_sw" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="89ea5b57cf9dc4e52215663d3b900fa4">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.772506255" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1342821622" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
